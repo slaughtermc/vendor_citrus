@@ -1,4 +1,4 @@
 # Inherit common PixelExperience stuff
-$(call inherit-product, vendor/pixeldust/config/common.mk)
+$(call inherit-product, vendor/citrus/config/common.mk)
 
 PRODUCT_SIZE := full
